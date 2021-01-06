@@ -1,0 +1,5 @@
+mc/Logs/*
+mc/world/*
+mc/Logs
+mc/world
+minecraft_server.*.jar
