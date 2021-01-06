@@ -1,2 +1,2 @@
 
-$Env:MC_COTNAINER_NAME = "minecraft-docker_minecraft_1"
+$Env:MC_COTNAINER_NAME = "docker-mc-server_minecraft_1"
